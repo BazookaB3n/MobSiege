@@ -1,0 +1,12 @@
+name: MobSiege
+version: '0.0.1'
+main: org.mobSiege.Main
+api-version: '1.21'
+
+commands:
+  giveslimeegg:
+    description: Gives you a custom cloning slime egg
+    usage: /giveslimeegg
+  tasks:
+    description: Opens the daily tasks menu
+    usage: /tasks
